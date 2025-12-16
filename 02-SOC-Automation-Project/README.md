@@ -31,19 +31,35 @@ This hands-on project showcases how SOAR + AI can reduce repetitive work, improv
 ## Screenshots
 *Ref 1: Workflow Diagram*
 
-<img width="1542" height="829" alt="image" src="https://github.com/user-attachments/assets/2fd067f7-d1de-4b33-a2fb-f78d87ae2547" />
-*
-*Ref 1: Workflow Diagram*
+<img width="765" height="500" alt="n8n workflow" src="https://github.com/user-attachments/assets/503362d6-7f42-457d-a6e4-63fe6b5f2e60" />
+<br><br>
 
-*Ref 1: Workflow Diagram*
+*Ref 2: Splunk Alerts*
 
-*Ref 1: Workflow Diagram*
+<img width="958" height="415" alt="Splunk Alert 1" src="https://github.com/user-attachments/assets/6c0eadd6-fe40-4680-adf6-c112237e6788" />
+<br><br>
 
-*Ref 1: Workflow Diagram*
+*Ref 3: Slack Alert*
 
-*Ref 1: Workflow Diagram*
+<img width="954" height="500" alt="Slack Alert 1" src="https://github.com/user-attachments/assets/37bba559-4403-439a-a031-2d8e446185a9" />
+<br><br>
 
-*Ref 1: Workflow Diagram*
+*Ref 4: DFIR-IRIS Case Creation*
+
+<img width="955" height="496" alt="IRIS Case 1" src="https://github.com/user-attachments/assets/0b1e6bdc-bcab-4695-992d-d2831d168a44" />
+<br><br>
+
+*Ref 5: Splunk Logs*
+
+<img width="957" height="502" alt="Splunk Logs 1" src="https://github.com/user-attachments/assets/af07b68e-3999-407b-8aeb-b06fd1107be5" />
+<br><br>
+
+*Ref 6: Claude Search*
+
+<img width="954" height="497" alt="Claude 1" src="https://github.com/user-attachments/assets/5bbeb56d-d00e-4d93-b05a-8adfb8cab34f" />
+<br><br>
+<img width="957" height="500" alt="Claude 2" src="https://github.com/user-attachments/assets/1d05f872-a401-4f8c-ad5f-83021cfc7c77" />
+<br><br>
 
 ## Learning Outcomes
 - Gained practical experience automating SOC alert triage end-to-end.
