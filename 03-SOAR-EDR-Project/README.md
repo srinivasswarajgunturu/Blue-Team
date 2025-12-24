@@ -90,7 +90,7 @@ Ref 9: Isolated machine
 <br><br>
 
 ## Learning Outcomes
-By completing this Active Directory Detection Lab, I:
+By completing this SOAR EDR Project, I:
 - Deployed and secured a cloud-hosted Windows Server for EDR monitoring and SOAR integration
 - Generated realistic credential access telemetry using LaZagne to validate detection logic
 - Developed custom EDR detection rules to identify suspicious password recovery activity
