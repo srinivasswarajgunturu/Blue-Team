@@ -62,6 +62,7 @@ This hands-on project showcases how SOAR + AI can reduce repetitive work, improv
 <br><br>
 
 ## Learning Outcomes
+By completing this SOC Automation project, I:
 - Gained practical experience automating SOC alert triage end-to-end.
 - Learned how SIEM alerts flow through detection → enrichment → triage → escalation.
 - Built SOAR-style workflows in N8N using webhooks, API calls, and conditional logic.
